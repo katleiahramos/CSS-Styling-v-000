@@ -15,8 +15,8 @@
 
 p { all p elemenst }
 
-*/ 
+*/
 
 p {
-  font-size: 16px; /* 16px, ?pt (can be different on differnt browsers), 100%, 1em */ 
+  font-size: 30px; /* 16px, ?pt (can be different on differnt browsers), 100%, 1em */
 }
