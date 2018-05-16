@@ -19,5 +19,5 @@ p { all p elemenst }
 
 p {
   font-size: 1em; /* 16px, ?pt (can be different on differnt browsers), 100%, 1em */
-  line-height: 2em;
+  line-height: 1.5em;
 }
