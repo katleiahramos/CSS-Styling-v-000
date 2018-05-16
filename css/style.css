@@ -66,3 +66,7 @@ figcaption {
   text-decoration: none;
 }
 
+#detials a:hover {
+  color: black;
+  text-decoration: underline;
+}
