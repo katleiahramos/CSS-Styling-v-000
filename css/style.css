@@ -70,3 +70,7 @@ figcaption {
   color: black;
   text-decoration: underline;
 }
+
+#detials a:active {
+  color:red
+}
