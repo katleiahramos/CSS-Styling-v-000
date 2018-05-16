@@ -18,6 +18,6 @@ p { all p elemenst }
 */
 
 p {
-  font-size: 1em; /* 16px, ?pt (can be different on differnt browsers), 100%, 1em */
+  font-size: 2em; /* 16px, ?pt (can be different on differnt browsers), 100%, 1em */
   line-height: 1.5em;
 }
