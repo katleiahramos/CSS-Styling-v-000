@@ -21,3 +21,9 @@ p {
   font-size: 1em; /* 16px, ?pt (can be different on differnt browsers), 100%, 1em */
   line-height: 1.5em;
 }
+
+figcaption {
+  font-weight: normal;
+  font-size: 0.75em;
+  line-height: 1.5em; 
+}
